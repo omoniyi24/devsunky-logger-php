@@ -1,20 +1,20 @@
 {
-	"name": "devsunky/logger",
-	"type": "library",
-	"description": "An example on how to push to packagist",
-	"authors": [{
-		"name": "Ilesanmi Omoniyi",
-		"email": "omoniyi@gmail.com"
-	}],
-	"minimum-stability": "stable",
+    "name": "devsunky/logger",
+    "description": "An example on how to push to packagist",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Ilesanmi Omoniyi",
+            "email": "omoniyi@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
 	"repositories": [{
-		"type": "vcs",
-		"url": "https://github.com/omoniyi24/devsunky-logger-php"
+	"type": "vcs",
+	"url": "https://github.com/omoniyi24/devsunky-logger-php"
 	}],
-	"autoload": {
-		"psr-4": {"devsunky\\Logger\\": "Request/"}
-	},
-    "require": {
-        "php": "^5.6"
-    }
+    "autoload": {
+        "psr-4": {"devsunky\\Logger\\": "Request/"}
+    },
+    "require": {}
 }
