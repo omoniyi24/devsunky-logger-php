@@ -1,8 +1,8 @@
 <?php
 namespace devsunky\Logger;
-include "Request/Debug/LoggerDebug.php";
-include "Request/Info/LoggerInfo.php";
-include "Request/Error/LoggerError.php";
+include "Debug/LoggerDebug.php";
+include "Info/LoggerInfo.php";
+include "Error/LoggerError.php";
 class LogService
 {
     function debug($payload){

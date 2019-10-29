@@ -15,6 +15,6 @@
 		"psr-4": {"devsunky\\Logger\\": "Request/"}
 	},
     "require": {
-        "php": "^7.0"
+        "php": "^5.6"
     }
 }

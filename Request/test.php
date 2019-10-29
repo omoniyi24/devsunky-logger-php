@@ -1,5 +1,5 @@
 <?php
-
+namespace devsunky\Logger;
 include "LogService.php";
 class TestServices
 {
