@@ -9,6 +9,13 @@
             "email": "omoniyi24@gmail.com"
         }
     ],
+		"repositories": [{
+		"type": "vcs",
+		"url": "https://github.com/omoniyi24/devsunky-logger-php"
+	}],
+	"autoload": {
+		"psr-4": {"devsunky\\Logger\\": "Request/"}
+	},
     "minimum-stability": "stable",
     "require": {}
 }
