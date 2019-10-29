@@ -1,5 +1,5 @@
 {
-	"name": "devsunky-logger",
+	"name": "devsunky/logger",
 	"type": "library",
 	"description": "An example on how to push to packagist",
 	"authors": [{
